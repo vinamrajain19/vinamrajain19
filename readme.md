@@ -68,21 +68,18 @@
 
 <p align="center">
   <a href="https://github.com/vinamrajain19">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinamra&theme=radical&border=7F3FBF&background=0D1117" alt="Vinamra's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinamrajain19&theme=radical&border=7F3FBF&background=0D1117" alt="Vinamra's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vinamrajain19">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinamra&theme=radical" alt="Vinamra's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinamrajain19&theme=radical" alt="Vinamra's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/vinamrajain19"><img alt="Vinamra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vinamra&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/vinamrajain19"><img alt="Vinamra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vinamra&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vinamrajain19"><img alt="Vinamra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vinamrajain19&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/vinamrajain19"><img alt="Vinamra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vinamrajain19&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-
-![Vinamra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinamra&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
