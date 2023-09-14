@@ -39,7 +39,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  🤓  I'm interested in ```Web Development``` and ```Problem Solving```<br/><br/>
- 📧  Reach me anytime: [Gmail](vinamrajain94@gmail.com)<br/><br/>
+ 📧  Reach me anytime: vinamrajain94@gmail.com<br/><br/>
  ⚡  My coding profiles : [LeetCode](https://leetcode.com/vinamrajain19/), [GFG](https://auth.geeksforgeeks.org/user/vinamrajain94/practice/)<br/><br/>
 
 </p>
